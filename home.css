@@ -21,7 +21,7 @@ header nav ul {
     margin: 0px;
     padding: 0px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: flex-start;
 }
 
 header nav ul li {
