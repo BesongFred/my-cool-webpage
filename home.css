@@ -21,7 +21,7 @@ header nav ul {
     margin: 0px;
     padding: 0px;
     display: flex;
-    justify-content: flex-start;
+    justify-content:space-evenly;
 }
 
 header nav ul li {
@@ -30,7 +30,7 @@ header nav ul li {
 
 header nav a {
     color: #fff;
-    text-decoration: none;
+    text-decoration:unset;
 }
 
 .logo {

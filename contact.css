@@ -59,7 +59,7 @@ header nav a {
 
 nav a {
     color: white;
-    text-decoration: none;
+    text-decoration: unset;
 }
 
 
@@ -71,7 +71,7 @@ nav ul li {
 
 nav a {
     color: white;
-    text-decoration: none;
+    text-decoration: unset;
 }
 body {
     margin: 0;
